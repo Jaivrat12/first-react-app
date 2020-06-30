@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.yellow {
+
+  background-color: yellow;
+  margin: 10px 400px 10px 400px;
+  padding: 10px;
+  border-radius: 8px;
+}
+.brown {
+
+  background-color: brown;
+  margin: 10px 400px 10px 400px;
+  padding: 10px;
+  border-radius: 8px;
+}
+.pink {
+
+  background-color: pink;
+  margin: 10px 400px 10px 400px;
+  padding: 10px;
+  border-radius: 8px;
+}
